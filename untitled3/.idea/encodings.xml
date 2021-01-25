@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/Comments 2020-03-10~2020-05-31.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/bad_psychology.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/good_psychology.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/comresfir.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/comresfor.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/comressec.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/comresthird.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/first.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/firstcom.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/forth.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/forthcom.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/resfir.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/resfor.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/ressec.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/resthird.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/second.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/third.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/temp/thirdcom.csv" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
